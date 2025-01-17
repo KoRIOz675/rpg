@@ -1,4 +1,8 @@
 from pygame import *
+from json import *
+
+# initialize Pygame
+init()
 
 # Setup interface variables
 screenWidth = 1080

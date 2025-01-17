@@ -1,7 +1,5 @@
 from controller.setup import *
 
-init()
-
 while run:
     # Quit game
     for events in event.get():
