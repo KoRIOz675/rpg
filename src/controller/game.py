@@ -1,6 +1,6 @@
-from setup import *
+from map import *
 
-class character: 
+class game:
     def __init__(self):
         pass
 

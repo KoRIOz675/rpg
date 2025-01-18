@@ -1,7 +1,8 @@
 from setup import *
 
-class character: 
+class map:
     def __init__(self):
         pass
 
-    
+    def setMap(self):
+        pass

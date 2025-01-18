@@ -5,8 +5,8 @@ from json import *
 init()
 
 # Setup interface variables
-screenWidth = 1080
-screenHeight = 720
+screenWidth = 720
+screenHeight = 480
 screenSize = (screenWidth, screenHeight)
 backgroundColor = "#e0e3e8"
 
